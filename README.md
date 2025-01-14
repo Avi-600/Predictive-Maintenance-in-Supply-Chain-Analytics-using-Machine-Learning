@@ -1,0 +1,2 @@
+# Predictive-Maintenance-in-Supply-Chain-Analytics-using-Machine-Learning
+Built a machine learning model for predicting maintenance needs in supply chain systems. Conducted data preprocessing, feature engineering, and model training using Scikit-learn. Analyzed key metrics like temperature, torque, and rotational speed for failure prediction. Improved operational efficiency through proactive maintenance scheduling. 
